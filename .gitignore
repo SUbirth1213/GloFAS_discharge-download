@@ -1,0 +1,14 @@
+# Credentials
+.cdsapirc
+.env
+.env.*
+# Downloaded data and working files
+glofas_china/
+*.nc
+*.download
+*.transfer
+*.empty-*
+*.request.json
+__pycache__/
+*.pyc
+.venv/
